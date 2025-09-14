@@ -6,11 +6,17 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/raianahellmann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
+<div>
+<a href="https://github.com/raianahellmann">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raianahellmann&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=raianahellmann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+---
+
+---
+
+![Snake animation](https://github.com/raianahellmann/raianahellmann/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
