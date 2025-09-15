@@ -24,6 +24,7 @@
 
 ![Snake animation](https://github.com/raianahellmann/raianahellmann/blob/output/github-contribution-grid-snake.svg)
 
+
 ### 🌐 Contato:
 
 <div> 
