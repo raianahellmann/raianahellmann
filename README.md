@@ -1,51 +1,53 @@
-<div align="center">
+# Raiana da Rosa Hellmann
 
-<img src="assets/banner.svg" alt="Raiana da Rosa Hellmann — Estudante de Sistemas de Informação e Técnica em Informática" width="100%">
+**Estudante de Sistemas de Informação · Técnica em Informática**
 
-</div>
+> Mais controle. Menos retrabalho.
 
-<br>
+---
 
-<div align="center">
+## 👋 Olá, eu sou a Raiana
 
-<img src="assets/about.svg" alt="Formação, atuação e estudos" width="100%">
+Gosto de entender como as coisas funcionam e de transformar tarefas manuais em soluções digitais simples e práticas.
 
-</div>
+- 🎓 Estudante de **Sistemas de Informação** na **UNIBAVE**
+- 💼 Atualmente atuo como **Técnica em Informática**
+- 🌱 Estudando **HTML, CSS, JavaScript e Django**
 
-<br>
+---
 
-<h3 align="center">🛠️ Tecnologias que tenho estudado</h3>
+## 🧭 Meu caminho de estudos
 
-<div align="center">
+| Área | O que estou aprendendo |
+| :-- | :-- |
+| **Front-end** | HTML, CSS e JavaScript |
+| **Back-end** | Django |
+| **Dia a dia** | Python, Git, GitHub e Linux |
 
-<img src="assets/stack.svg" alt="HTML, CSS, JavaScript, Django, Python, Git, GitHub e Linux" width="100%">
+---
 
-</div>
+## 🎯 Foco atual
 
-<br>
+- Construir meus primeiros projetos web completos
+- Evoluir da base (HTML, CSS e JavaScript) até aplicações com Django
+- Escrever código claro, organizado e fácil de manter
 
-<h3 align="center">🐍 Caminho das contribuições</h3>
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raianahellmann/raianahellmann/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raianahellmann/raianahellmann/output/github-snake.svg">
-    <img alt="Cobrinha percorrendo minhas contribuições" src="https://raw.githubusercontent.com/raianahellmann/raianahellmann/output/github-snake-dark.svg" width="100%">
-  </picture>
-</div>
+## 💬 Como eu penso
 
-<br>
+- **Simples:** se dá pra resolver de um jeito mais simples, esse é o caminho.
+- **Prático:** tecnologia boa é a que facilita a vida de quem usa.
+- **Sempre aprendendo:** cada projeto é uma chance de evoluir.
 
-<h3 align="center">🌐 Contato</h3>
+---
 
-<p align="center">
-  <a href="https://instagram.com/raianahellmann" target="_blank"><img src="assets/contact-instagram.svg" alt="Instagram" height="48"></a>
-  &nbsp;
-  <a href="mailto:raianahellmann1@gmail.com"><img src="assets/contact-email.svg" alt="E-mail" height="48"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/raiana-da-rosa-hellmann-380226354" target="_blank"><img src="assets/contact-linkedin.svg" alt="LinkedIn" height="48"></a>
-</p>
+## 🌐 Contato
 
-<br>
+- 📸 Instagram: [@raianahellmann](https://instagram.com/raianahellmann)
+- ✉️ E-mail: [raianahellmann1@gmail.com](mailto:raianahellmann1@gmail.com)
+- 💼 LinkedIn: [Raiana da Rosa Hellmann](https://www.linkedin.com/in/raiana-da-rosa-hellmann-380226354)
 
-<img src="assets/footer.svg" alt="Aprendendo, construindo e abrindo caminhos." width="100%">
+---
+
+*Seu processo pode ser mais simples.*
